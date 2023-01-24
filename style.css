@@ -1,0 +1,16 @@
+body{
+    border: 0;
+    background-color: aqua;
+}
+table{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    word-spacing: 5px;
+    color: black;
+    border-color: black;
+    border-radius: 5px;
+    text-align: center;
+    table-layout: auto;
+}
